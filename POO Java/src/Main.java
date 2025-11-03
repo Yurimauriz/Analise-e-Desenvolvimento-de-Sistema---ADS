@@ -5,5 +5,9 @@ public class Main {
         f1.teste();
         f1.recebeAumento(1600);
         f1.calculaGanhoAnual();
+
+        Professor p1 = new Professor("Jorge", "IFPI", 10000, "10/11/2023", "122132324", "POO", 60);
+
+        
     }
 }
